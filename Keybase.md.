@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am lordhorla on github.
+  * I am lordhorla (https://keybase.io/lordhorla) on keybase.
+  * I have a public key ASAx8lRv2Ij_2cNGqFgUNtX1WmQZdhxgtSleJISFZ1rjHAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012031f2546fd888ffd9c346a8581436d5f55a6419761c60b5295e248485675ae31c0a",
+      "host": "keybase.io",
+      "kid": "012031f2546fd888ffd9c346a8581436d5f55a6419761c60b5295e248485675ae31c0a",
+      "uid": "084badd4bf99aba3f21e3d0343043b19",
+      "username": "lordhorla"
+    },
+    "merkle_root": {
+      "ctime": 1574000920,
+      "hash": "7a7deed0523968f8156efd5ab76c7088e8b0e28d136f7e9b035a77e7a4c29eadb543c2e735a8b409d95f43b318089e2531f7cc04d338adacba8d51a595847c3d",
+      "hash_meta": "cae45b33dc8f50fcf01c1b1081dc1bb2a0a5cdb27abafe31967d91829f689c06",
+      "seqno": 9942967
+    },
+    "service": {
+      "entropy": "/+Z/1LGB+FZGDGGa0CJIFAOp",
+      "name": "github",
+      "username": "lordhorla"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574000930,
+  "expire_in": 504576000,
+  "prev": "35550b5ce7bc39093f46adad5b665e2570cc325d0503f5c98e8e423a3ebaaec6",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASAx8lRv2Ij_2cNGqFgUNtX1WmQZdhxgtSleJISFZ1rjHAo](https://keybase.io/lordhorla), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMfJUb9iI/9nDRqhYFDbV9VpkGXYcYLUpXiSEhWda4xwKp3BheWxvYWTESpcCCcQgNVULXOe8OQk/Rq2tW2ZeJXDMMl0FA/XJjo5COj66rsbEIAjpw723sPW059a9ygEFIdbD1UodU041EJaA8jHLJDVEAgHCo3NpZ8RAcmt4EgYpOBW6LxAB8tGj+pcdWgX1K96snxy+RoTpNbtsrExHlzdb6hOtftm5RMBhJJGvMjyvfQJ1f8yi9BFECqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHkBd/Sc7gWUD+CJHTtAbpVQ08DE5ss8CSL/CTtG7FClo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/lordhorla
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id lordhorla
+```
